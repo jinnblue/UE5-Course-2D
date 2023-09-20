@@ -1,3 +1,6 @@
 [submodule "QuickDraw"]
 	path = QuickDraw
 	url = git@github.com:jinnblue/UE5-2D-QuickDraw.git
+[submodule "MashRunner"]
+	path = MashRunner
+	url = git@github.com:jinnblue/UE5-2D-MashRunner.git
