@@ -4,3 +4,6 @@
 [submodule "MashRunner"]
 	path = MashRunner
 	url = git@github.com:jinnblue/UE5-2D-MashRunner.git
+[submodule "TowerClimber"]
+	path = TowerClimber
+	url = git@github.com:jinnblue/UE5-2D-TowerClimber.git
