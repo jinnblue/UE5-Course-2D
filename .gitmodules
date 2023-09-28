@@ -7,3 +7,6 @@
 [submodule "TowerClimber"]
 	path = TowerClimber
 	url = git@github.com:jinnblue/UE5-2D-TowerClimber.git
+[submodule "ActionPlatformer"]
+	path = ActionPlatformer
+	url = git@github.com:jinnblue/UE5-2D-ActionPlatformer.git
